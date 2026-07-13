@@ -141,3 +141,6 @@ ios
 .expo
 + /android
 + /ios
+
+# Misc
+.specstory
